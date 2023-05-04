@@ -28,6 +28,7 @@ def signUp():
 
 # The program starts Here
 print('Welcome')
+
 #variable declaration
 username1=''
 password2=None
@@ -35,6 +36,7 @@ username2=None
 password1=''
 interest=0
 creditsSetup=0
+
 # First function Execution
 def myOption():
     option = int(input('Press 0 for signIn and 1 for signUp: '))
