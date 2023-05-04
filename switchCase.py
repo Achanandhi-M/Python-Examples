@@ -1,6 +1,9 @@
 import datetime
+
 now=datetime.datetime.now()
+
 currentDay=now.strftime("%A")
+
 match currentDay:
     case "Monday":
         print("Current Day is" ,currentDay)
@@ -19,6 +22,6 @@ match currentDay:
 
     case "Saturday":
         print("Current Day is" ,currentDay)
-        
+
     case "Sunday":
         print("Current Day is" ,currentDay)
