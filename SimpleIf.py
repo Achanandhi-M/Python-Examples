@@ -1,4 +1,5 @@
 class Fun:
+    
     def __init__(self,mind):
         self.mind=mind
 
@@ -9,6 +10,7 @@ class Fun:
         print('Enjoy your work') 
 
 def userInput():
+
     mind=int(input('Enter 0 for boring mindset and 1 for active mindset : '))
     
     myobj=Fun(mind)
