@@ -10,6 +10,7 @@ class Fun:
 
 def userInput():
     mind=int(input('Enter 0 for boring mindset and 1 for active mindset : '))
+    
     myobj=Fun(mind)
     if mind == 0:
         myobj.boring()
