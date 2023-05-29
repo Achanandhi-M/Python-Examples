@@ -1,4 +1,4 @@
 # Python-Examples
-#50 days of learning python with some basics example
+#30 days of learning python with simple basics example
 
-In this repository I upload some crazy python program
+In this repository I upload  python program
