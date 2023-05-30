@@ -1,8 +1,5 @@
 def function():
-
-    
-    print('Function is executed :) ')
+        print('Function is executed :) ')
 
 
-    
 function()
