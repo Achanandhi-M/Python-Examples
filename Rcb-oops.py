@@ -21,4 +21,3 @@ def team():
     else:
         print('Invalid result')
         team()
-team()
